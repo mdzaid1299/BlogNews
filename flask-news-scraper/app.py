@@ -1,10 +1,12 @@
 from flask import Flask, jsonify
 import json
 import os
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
-@app.route('/scrape-techcrunch', methods=['GET'])
+@app.route('/scrape', methods=['GET'])
 def get_scraped_data():
     try:
         with open('scraped_data.json', 'r') as f:
