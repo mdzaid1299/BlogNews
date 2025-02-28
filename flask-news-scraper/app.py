@@ -1,5 +1,6 @@
 from flask import Flask, jsonify
 import json
+import os
 
 app = Flask(__name__)
 
@@ -12,5 +13,7 @@ def get_scraped_data():
     except FileNotFoundError:
         return jsonify({"error": "No data found. Please run the scraper."}), 404
 
-if __name__ == '__main__':
-    app.run(debug=True)
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 5000))  # Default to 5000 if PORT is not set
+    app.run(host="0.0.0.0", port=port, debug=True)
