@@ -1,5 +1,10 @@
 [
     {
+        "title": "Meta has revenue sharing agreements with Llama AI model hosts, filing reveals",
+        "link": "https://techcrunch.com/2025/03/21/meta-has-revenue-sharing-agreements-with-llama-ai-model-hosts-filing-reveals/",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2204064825.jpg?w=668"
+    },
+    {
         "title": "How BYD plans to make EV charging as fast as filling a gas tank",
         "link": "https://techcrunch.com/2025/03/21/how-byd-plans-to-make-ev-charging-as-fast-as-filling-a-gas-tank/",
         "image": "https://techcrunch.com/wp-content/uploads/2025/03/byd-han.jpeg?w=668"
@@ -10,9 +15,19 @@
         "image": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?w=668"
     },
     {
-        "title": "Meta spotted testing AI-generated comments on Instagram",
-        "link": "https://techcrunch.com/2025/03/21/meta-spotted-testing-ai-generated-comments-on-instagram/",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/08/instagram-GettyImages-2150186181.jpg?w=668"
+        "title": "Charlie Javice trial becomes a master class in hubris for both sides",
+        "link": "https://techcrunch.com/2025/03/22/charlie-javice-trial-becomes-a-master-class-in-hubris-for-both-sides/",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/02/Charlie-Javice.jpg?w=562"
+    },
+    {
+        "title": "Week in Review: Google buys Wiz",
+        "link": "https://techcrunch.com/2025/03/22/week-in-review-google-buys-wiz/",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2161842016.jpg?w=562"
+    },
+    {
+        "title": "The 20 hottest open source startups of 2024",
+        "link": "https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1309243828-e1742560843952.jpg?w=563"
     },
     {
         "title": "Meta settles UK \u2018right to object to ad-tracking\u2019 lawsuit by agreeing not to track plaintiff",
@@ -48,21 +63,6 @@
         "title": "TechCrunch has, yes, personal news!",
         "link": "https://techcrunch.com/2025/03/21/techcrunch-has-personal-news/",
         "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1822046710.jpg?w=594"
-    },
-    {
-        "title": "Anthropic appears to be using Brave to power web search for its Claude chatbot",
-        "link": "https://techcrunch.com/2025/03/21/anthropic-appears-to-be-using-brave-to-power-web-searches-for-its-claude-chatbot/",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?w=668"
-    },
-    {
-        "title": "Startups Weekly: Wiz\u2019s bet paid off in an M&A-rich week",
-        "link": "https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/",
-        "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1401447105.jpg?w=563"
-    },
-    {
-        "title": "TechCrunch Mobility: Inside Waymo\u2019s deal with SFO, Elon\u2019s moment of truth, and BYD\u2019s breakthrough",
-        "link": "https://techcrunch.com/2025/03/21/techcrunch-mobility-inside-waymos-deal-with-sfo-elons-moment-of-truth-and-byds-breakthrough/",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2204586038.jpg?w=550"
     },
     {
         "title": "Nvidia GTC 2025 live updates: Blackwell Ultra, GM partnerships, and two \u2018personal AI supercomputers\u2019",
@@ -105,14 +105,14 @@
         "image": "https://techcrunch.com/wp-content/uploads/2024/12/aws-reinvent-2024-logo.png?w=668"
     },
     {
-        "title": "Anduril might build a weapons factory in the UK",
-        "link": "https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152504211-e.jpg?w=668"
+        "title": "The 20 hottest open source startups of 2024",
+        "link": "https://techcrunch.com/2025/03/22/the-20-hottest-open-source-startups-of-2024/",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1309243828-e1742560843952.jpg?w=668"
     },
     {
-        "title": "Startups Weekly: Wiz\u2019s bet paid off in an M&A-rich week",
-        "link": "https://techcrunch.com/2025/03/21/startups-weekly-wizs-bet-paid-off-in-an-ma-rich-week/",
-        "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1401447105.jpg?w=563"
+        "title": "Anduril might build a weapons factory in the UK",
+        "link": "https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152504211-e.jpg?w=584"
     },
     {
         "title": "Watch these Google DeepMind robots play a game of soccer",
@@ -245,6 +245,11 @@
         "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2204586038.jpg?w=550"
     },
     {
+        "title": "Charlie Javice trial becomes a master class in hubris for both sides",
+        "link": "https://techcrunch.com/2025/03/22/charlie-javice-trial-becomes-a-master-class-in-hubris-for-both-sides/",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/02/Charlie-Javice.jpg?w=562"
+    },
+    {
         "title": "Anduril might build a weapons factory in the UK",
         "link": "https://techcrunch.com/2025/03/21/anduril-might-build-a-weapons-factory-in-the-uk/",
         "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152504211-e.jpg?w=584"
@@ -268,10 +273,5 @@
         "title": "Apple is reportedly losing $1B per year on its streaming service",
         "link": "https://techcrunch.com/2025/03/20/apple-is-reportedly-losing-1b-per-year-on-its-streaming-service/",
         "image": "https://techcrunch.com/wp-content/uploads/2024/12/apple-tv-plus-logo.jpg?w=563"
-    },
-    {
-        "title": "North Korea launches new unit with a focus on AI hacking, per report",
-        "link": "https://techcrunch.com/2025/03/20/north-korea-launches-new-unit-with-a-focus-on-ai-hacking-per-report/",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/03/kim-jong-un-north-korea-tv.jpg?w=668"
     }
 ]
