@@ -37,7 +37,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
           git stash --include-untracked
-          git pull origin main --rebase
+          git pull origin main
           git stash pop || echo "Nothing to pop from stash"
 
           git add .
